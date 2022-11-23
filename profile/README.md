@@ -1,3 +1,3 @@
-## EasyTemp
+## QiwyLabs
 
-This is profile with a project templates for clone.
+Projects templates.
